@@ -15,22 +15,22 @@ export default function Home() {
 
         <div className="grid">
 
-          <a href="/" className="card">
+          <a className="card">
             <h3>Links &rarr;</h3>
             <p> Important links of all the Bayaans from Ulama-E-Deen </p>
           </a>
 
-          <a href="/" className="card">
+          <a className="card">
             <h3>Faraidh & Sunnahs &rarr;</h3>
             <p>Example: Faraidh of Salath, Sunnah's of Eating, Sleeping etc.</p>
           </a>
 
-          <a href="/" className="card">
+          <a className="card">
             <h3>English Content &rarr;</h3>
             <p>All the content here is exclusively in English.</p>
           </a>
 
-          <a href="/" className="card">
+          <a className="card">
             <h3>Urdu Content &rarr;</h3>
             <p>All the content here is exclusively in Urdu.</p>
           </a>
