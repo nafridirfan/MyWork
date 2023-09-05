@@ -16,23 +16,23 @@ export default function Home() {
         <div className="grid">
 
           <a className="card">
-            <h3>Links &rarr;</h3>
-            <p> Important links of all the Bayaans from Ulama-E-Deen </p>
+            <h3>Automation Testing &rarr;</h3>
+            <p> Web and Mobile based Automation using different frameworks. </p>
           </a>
 
           <a className="card">
-            <h3>Faraidh & Sunnahs &rarr;</h3>
-            <p>Example: Faraidh of Salath, Sunnah's of Eating, Sleeping etc.</p>
+            <h3>Performance Testing &rarr;</h3>
+            <p>Performance Testing using Locust with Python and Docker. </p>
           </a>
 
           <a className="card">
-            <h3>English Content &rarr;</h3>
-            <p>All the content here is exclusively in English.</p>
+            <h3>App Development &rarr;</h3>
+            <p>A simple location based Android application using Java</p>
           </a>
 
           <a className="card">
-            <h3>Urdu Content &rarr;</h3>
-            <p>All the content here is exclusively in Urdu.</p>
+            <h3>Other work &rarr;</h3>
+            <p>Mental number games to participate in Mathematics Olympiad.</p>
           </a>
 
         </div>
