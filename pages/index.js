@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Irfan Davalsab Nargund</title>
+        <title>IDN</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
         <h1 className="title">
-          Keemthi Baatein
+          Irfan Davalsab Nargund
         </h1>
 
         <div className="grid">
