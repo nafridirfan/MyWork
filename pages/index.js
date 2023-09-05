@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Keemthi Baatein</title>
+        <title>Irfan Davalsab Nargund</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
