@@ -32,7 +32,7 @@ export default function Home() {
 
           <a className="card">
             <h3>Other work &rarr;</h3>
-            <p>Mental number games to participate in Mathematics Olympiad.</p>
+            <p>Mental calculation and Wood work. </p>
           </a>
 
         </div>
